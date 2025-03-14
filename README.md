@@ -1,7 +1,3 @@
-Вот краткое `README.md` для GitHub:  
-
----
-
 # 🎵 Music & Mental Health Analysis  
 
 **Exploring the relationship between music preferences, listening habits, and self-reported mental health indicators (anxiety, depression, insomnia, OCD).**  

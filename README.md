@@ -3,10 +3,10 @@
 This project analyzes survey data on music consumption and mental health to identify patterns and correlations. The study includes **statistical analysis, clustering, and regression modeling** to uncover potential links between music habits and psychological well-being.  
 
 #### 🛠️ Technologies & Libraries  
-- **Python** (Pandas, NumPy, SciPy)  
-- **Data Visualization**: Matplotlib, Seaborn  
-- **Statistical Analysis**: Pearson/Spearman correlations, Mann-Whitney U test, ANOVA, Chi-square tests  
-- **Machine Learning**: K-Means Clustering, OLS Regression (Statsmodels)  
+- **Python** (`Pandas`, `NumPy`, `SciPy`)  
+- **Data Visualization**: `Matplotlib`, `Seaborn`  
+- **Statistical Analysis**: `Pearson/Spearman correlations`, `Mann-Whitney U test`, `ANOVA`, `Chi-square tests`  
+- **Machine Learning**: `K-Means Clustering`, `OLS Regression (Statsmodels)`  
 
 #### 🔍 Key Findings  
 - **Listening time** is weakly correlated with **higher depression, insomnia, and OCD**.  
